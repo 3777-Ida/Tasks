@@ -18,8 +18,7 @@
       * 当权值相等时，后出现的样式表由于先出现的样式表设置
       * 网页编写者设置的css优先权高于浏览器默认值  
       * 继承的样式不如后来指定的
-      * !imporant优先级最大    
-![优先权重图](https://cn.bing.com/images/search?view=detailV2&ccid=WbU38%2fVN&id=BD945EFD28AABF66E882217AF532A0C16BA380B0&thid=OIP.WbU38_VNWiRyU-3MTREbIAHaJl&mediaurl=https%3a%2f%2fpic3.zhimg.com%2fv2-55184fab1ae3b22ac99d057a48ff54ca_r.jpg&exph=828&expw=640&q=css%e6%a0%b7%e5%bc%8f%e6%9d%83%e9%87%8d%e5%9b%be&simid=608026477592840457&FORM=IRPRST&ck=C74D12D2E2CA2897F697D268CC193B13&selectedIndex=0&ajaxhist=0&ajaxserp=0' width='25%)  
+      * !imporant优先级最大     
 ### 盒模型
 ** 常见盒模型： **标准盒模型、怪异盒模型和弹性盒模型  
 1. 标准盒模型与怪异盒模型的区别在于他们计算宽高的范围不同。怪异盒模型除将标准盒模型的内容区域的宽高计算进去之外，还包括了边距和边框的宽高。这是由于浏览器所遵循的标准不同造成的。    
