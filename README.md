@@ -10,3 +10,4 @@
 * [复刻旧版招新网站](https://3777-Ida.github.io/)
 * [SQL学习笔记](https://github.com/3777-Ida/Tasks/blob/main/SQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 * [python的第三方库的学习笔记](https://github.com/3777-Ida/Tasks/tree/main/python%E7%9A%84%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+* [xss记录](https://github.com/3777-Ida/Tasks/blob/main/xss%E8%AE%B0%E5%BD%95.md)
